@@ -1,15 +1,18 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Something you might interested in!
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Limeng Ge. You can also call me Chloe. I’m a junior majoring in Philosophy at East China Normal University and currently an international exchange student at New York University. My academic journey is driven by a deep curiosity about the intersections of philosophy and technology, with particular interests in the Philosophy of Mind, AI Philosophy, and Philosophy of Game. I’m passionate about exploring how these fields shape our understanding of consciousness, artificial intelligence, and virtual realities. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Critical and Analytical Thinker
+- Effective Communicator
+- Innovative Problem-Solver
 
-What else do you need?
+With a foundation in computer language and data analysis, I’m particularly focused on applying these skills in public policy, international relations, and data analysis within the non-profit and international organization sectors. 
+
+Outside of my academic pursuits, I have a deep love for music and the arts. I’ve been studying piano and cello for over ten years, which has given me a strong appreciation for musical expression and creativity. I also enjoy exploring virtual worlds through gaming, where I can engage with interactive storytelling and design. In my downtime, I’m an avid documentary viewer, as I find it fascinating to learn about diverse cultures, histories, and global perspectives through real-life stories. These hobbies keep me inspired and curious.
 
 ### My story
 
