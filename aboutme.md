@@ -4,7 +4,7 @@ title: About me
 subtitle: Something you might interested in!
 ---
 
-My name is Limeng Ge. You can also call me Chloe. I’m a junior majoring in Philosophy at East China Normal University and currently an international exchange student at New York University. My academic journey is driven by a deep curiosity about the intersections of philosophy and technology, with particular interests in the Philosophy of Mind, AI Philosophy, and Philosophy of Game. I’m passionate about exploring how these fields shape our understanding of consciousness, artificial intelligence, and virtual realities. I have the following qualities:
+My name is Limeng Ge. You can also call me Chloe. I’m a junior majoring in Philosophy at East China Normal University and currently an international exchange student at New York University. I have the following qualities:
 
 - Critical and Analytical Thinker
 - Effective Communicator
