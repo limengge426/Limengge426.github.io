@@ -21,10 +21,10 @@ author: Limeng Ge
 
 navbar-links:
   About Me: "aboutme"
-  Work:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Resume: "https://deanattali.com"
+  My Work:
+    - Skills: "https://beautifuljekyll.com"
+    - Projects: "https://www.markdowntutorial.com/"
+  My Resume: "file:///Users/chloe/Desktop/Resume-Limeng%20Ge.pdf"
 
 ################
 # --- Logo --- #
