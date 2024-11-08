@@ -52,11 +52,11 @@ round-avatar: true
 social-network-links:
   email: "lg3635@nyu.edu"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  github: daattali
+  github: limengge426
   whatsapp: 6463589504
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
-  linkedin: Limeng (Chloe) Ge
+  linkedin: "https://www.linkedin.com/in/limeng-ge-a785a6319/"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
