@@ -24,7 +24,7 @@ navbar-links:
   My Work:
     - Skills: "https://beautifuljekyll.com"
     - Projects: "https://www.markdowntutorial.com/"
-  My Resume: "file:///Users/chloe/Desktop/Resume-Limeng%20Ge.pdf"
+  My Resume: "https://drive.google.com/drive/u/1/workspaces"
 
 ################
 # --- Logo --- #
